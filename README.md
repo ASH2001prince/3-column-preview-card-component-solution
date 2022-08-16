@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-OPu119Szl-)
-- Live Site URL: [https://github.com/ASH2001prince]
+- Solution URL: [https://github.com/ASH2001prince/3-column-preview-card-component-solution.git]
+- Live Site URL: [https://ash2001prince.github.io/3-column-preview-card-component-solution/]
 
 ### Built with
 
